@@ -102,7 +102,7 @@ A customer relationship management web application built using Django and Tailwi
 Clone the project
 
 ```bash
-git clone https://github.com/Peagah-Vieira/Django-CRM-Web-Application
+git clone https://github.com/bbigbear/Django-CRM-Web.git
 ```
 
 Create a virtual environment
